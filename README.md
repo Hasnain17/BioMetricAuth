@@ -24,7 +24,7 @@ Biometric authentication provides a secure and convenient way for users to acces
 1. Clone the repository to your local machine:
 
    ```
-   git clone https://github.com/your_username/your_repository.git
+   git clone https://github.com/Hasnain17/BioMetricAuth.git
    ```
 
 2. Open the project in Android Studio.
